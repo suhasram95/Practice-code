@@ -33,6 +33,6 @@ public class SetZeroes {
 			}
 		}
 		// use mark to set elements
-		for (int i = 0; )
+//		for (int i = 0; )
 	}
 }
